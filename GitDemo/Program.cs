@@ -6,8 +6,11 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, World!");
-           // Console.WriteLine("Hello, World!");
-           // Console.WriteLine("Banan");
+            // Console.WriteLine("Hello, World!");
+            // Console.WriteLine("Banan");
+
+            var car = new Car();
+            Console.WriteLine(car.Wheels);
         }
     }
 }
